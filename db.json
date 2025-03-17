@@ -1,32 +1,34 @@
-[
-    {
-        "tipo de arma": "Espada larga",
-        "tipo de daño": "Cortante",
-        "costo": 15,
-        "rango": "Melee"
-    },
-    {
-        "tipo de arma": "Arco largo",
-        "tipo de daño": "Perforante",
-        "costo": 50,
-        "rango": "A distancia"
-    },
-    {
-        "tipo de arma": "Hacha de batalla",
-        "tipo de daño": "Cortante",
-        "costo": 10,
-        "rango": "Melee"
-    },
-    {
-        "tipo de arma": "Daga",
-        "tipo de daño": "Perforante",
-        "costo": 2,
-        "rango": "Melee"
-    },
-    {
-        "tipo de arma": "Martillo de guerra",
-        "tipo de daño": "Contundente",
-        "costo": 15,
-        "rango": "Melee"
-    }
-]
+{
+    "armas": [
+        {
+            "tipo de arma": "Espada larga",
+            "tipo de daño": "Cortante",
+            "costo": 15,
+            "rango": "Melee"
+        },
+        {
+            "tipo de arma": "Arco largo",
+            "tipo de daño": "Perforante",
+            "costo": 50,
+            "rango": "A distancia"
+        },
+        {
+            "tipo de arma": "Hacha de batalla",
+            "tipo de daño": "Cortante",
+            "costo": 10,
+            "rango": "Melee"
+        },
+        {
+            "tipo de arma": "Daga",
+            "tipo de daño": "Perforante",
+            "costo": 2,
+            "rango": "Melee"
+        },
+        {
+            "tipo de arma": "Martillo de guerra",
+            "tipo de daño": "Contundente",
+            "costo": 15,
+            "rango": "Melee"
+        }
+    ]
+}    
