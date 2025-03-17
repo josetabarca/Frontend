@@ -2,35 +2,30 @@
     {
         "tipo de arma": "Espada larga",
         "tipo de daño": "Cortante",
-        "dado de daño": "1d8",
         "costo": 15,
         "rango": "Melee"
     },
     {
         "tipo de arma": "Arco largo",
         "tipo de daño": "Perforante",
-        "dado de daño": "1d8",
         "costo": 50,
         "rango": "A distancia"
     },
     {
         "tipo de arma": "Hacha de batalla",
         "tipo de daño": "Cortante",
-        "dado de daño": "1d8",
         "costo": 10,
         "rango": "Melee"
     },
     {
         "tipo de arma": "Daga",
         "tipo de daño": "Perforante",
-        "dado de daño": "1d4",
         "costo": 2,
         "rango": "Melee"
     },
     {
         "tipo de arma": "Martillo de guerra",
         "tipo de daño": "Contundente",
-        "dado de daño": "1d8",
         "costo": 15,
         "rango": "Melee"
     }
