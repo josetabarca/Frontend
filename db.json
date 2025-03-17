@@ -1,0 +1,107 @@
+[
+    {
+        "tipo de arma": "Espada larga",
+        "tipo de daño": "Cortante",
+        "dado de daño": "1d8",
+        "costo": 15,
+        "rango": "Melee"
+    },
+    {
+        "tipo de arma": "Arco largo",
+        "tipo de daño": "Perforante",
+        "dado de daño": "1d8",
+        "costo": 50,
+        "rango": "A distancia"
+    },
+    {
+        "tipo de arma": "Hacha de batalla",
+        "tipo de daño": "Cortante",
+        "dado de daño": "1d8",
+        "costo": 10,
+        "rango": "Melee"
+    },
+    {
+        "tipo de arma": "Daga",
+        "tipo de daño": "Perforante",
+        "dado de daño": "1d4",
+        "costo": 2,
+        "rango": "Melee"
+    },
+    {
+        "tipo de arma": "Martillo de guerra",
+        "tipo de daño": "Contundente",
+        "dado de daño": "1d8",
+        "costo": 15,
+        "rango": "Melee"
+    },
+    {
+        "tipo de arma": "Ballesta ligera",
+        "tipo de daño": "Perforante",
+        "dado de daño": "1d8",
+        "costo": 25,
+        "rango": "A distancia"
+    },
+    {
+        "tipo de arma": "Lanza",
+        "tipo de daño": "Perforante",
+        "dado de daño": "1d6",
+        "costo": 1,
+        "rango": "Melee"
+    },
+    {
+        "tipo de arma": "Maza",
+        "tipo de daño": "Contundente",
+        "dado de daño": "1d6",
+        "costo": 5,
+        "rango": "Melee"
+    },
+    {
+        "tipo de arma": "Espada corta",
+        "tipo de daño": "Perforante",
+        "dado de daño": "1d6",
+        "costo": 10,
+        "rango": "Melee"
+    },
+    {
+        "tipo de arma": "Arco corto",
+        "tipo de daño": "Perforante",
+        "dado de daño": "1d6",
+        "costo": 25,
+        "rango": "A distancia"
+    },
+    {
+        "tipo de arma": "Ballesta pesada",
+        "tipo de daño": "Perforante",
+        "dado de daño": "1d10",
+        "costo": 50,
+        "rango": "A distancia"
+    },
+    {
+        "tipo de arma": "Alabarda",
+        "tipo de daño": "Cortante",
+        "dado de daño": "1d10",
+        "costo": 20,
+        "rango": "Melee"
+    },
+    {
+        "tipo de arma": "Bastón",
+        "tipo de daño": "Contundente",
+        "dado de daño": "1d6",
+        "costo": 5,
+        "rango": "Melee"
+    },
+    {
+        "tipo de arma": "Martillo ligero",
+        "tipo de daño": "Contundente",
+        "dado de daño": "1d4",
+        "costo": 2,
+        "rango": "Melee"
+    },
+    {
+        "tipo de arma": "Jabalina",
+        "tipo de daño": "Perforante",
+        "dado de daño": "1d6",
+        "costo": 0.5,
+        "rango": "A distancia"
+    }
+]
